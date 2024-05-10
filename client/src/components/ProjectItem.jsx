@@ -9,7 +9,7 @@ function ProjectItem({ img, title }) {
           {title}
         </h3>
         <a href="/">
-            <p className='text-center p-3 rounded-lg bg-white text-slate-600 font-bold cursor-pointer text-lg'>Live link</p>
+            <p className='text-center rounded-lg bg-white text-slate-600 font-bold cursor-pointer text-lg'>Live link</p>
         </a>
       </div>
     </div>
