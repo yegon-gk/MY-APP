@@ -65,7 +65,7 @@ const Main = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/your-profile"
+              href="https://www.linkedin.com/in/mryegon/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -105,7 +105,7 @@ const Main = () => {
               />
             </a> */}
             <a
-              href="https://github.com/your-profile"
+              href="https://github.com/yegon-gk"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -114,22 +114,23 @@ const Main = () => {
                 size={27}
               />
             </a>
+            
             <a
-              href="https://discord.gg/your-server"
+              href="https://stackoverflow.com/users/23611535/yegon-g-k"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaDiscord
+              <FaStackOverflow
                 className="cursor-pointer hover:text-orange-700 hover:scale-90 transition duration-300 ease-in-out"
                 size={27}
               />
             </a>
             <a
-              href="https://stackoverflow.com/users/your-profile"
+              href="https://discord.com/channels/@yegon.ke"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaStackOverflow
+              <FaDiscord
                 className="cursor-pointer hover:text-orange-700 hover:scale-90 transition duration-300 ease-in-out"
                 size={27}
               />
