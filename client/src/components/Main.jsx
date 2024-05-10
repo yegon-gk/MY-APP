@@ -44,7 +44,7 @@ const Main = () => {
             />
           </h2>
           <div className="sm:text-1xl text-1xl pt-4 ">
-            <p>
+            <p className='text-center leading-none font-normal text-slate-200'>
               I am a seasoned software engineer with years of experience and
               expertise in Software Engineering technologies. Dive into my
               website to discover the magic behind my resume and explore some of

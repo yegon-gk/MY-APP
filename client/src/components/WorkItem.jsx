@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Workitem = ({ year, title, duration, details }) => {
+const WorkItem = ({ year, title, duration, details }) => {
   return (
     <ol className="flex flex-col md:flex-row relative border-l border-orange-500">
       <li className="mb-10 ml-4">
@@ -18,4 +18,4 @@ const Workitem = ({ year, title, duration, details }) => {
   );
 };
 
-export default Workitem;
+export default WorkItem;
