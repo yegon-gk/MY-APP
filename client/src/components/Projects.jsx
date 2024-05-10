@@ -18,12 +18,12 @@ const Projects = () => {
         in to witness firsthand the results of my commitment to excellence.
       </p>
       <div className="grid sm:grid-cols-2 gap-12 ">
-        <ProjectItem img={ajaliImg} title='Ajali App' />
-        <ProjectItem img={globalImg} title='Global App' />
-        <ProjectItem img={portfolioImg} title='Portfolio App' />
-        <ProjectItem img={teslaImg} title='Tesla App' />
-        <ProjectItem img={yegonhomesImg} title='YegonHomes App' />
-        <ProjectItem img={ygnImg} title='Ygn App' />
+        <ProjectItem img={ajaliImg} title='Ajali ' />
+        <ProjectItem img={globalImg} title='Global Wander' />
+        <ProjectItem img={portfolioImg} title='My Portfolio' />
+        <ProjectItem img={teslaImg} title='Tesla Clone App' />
+        <ProjectItem img={yegonhomesImg} title='YegonHomes' />
+        <ProjectItem img={ygnImg} title='My Portfolio' />
       </div>
     </div>
   );
