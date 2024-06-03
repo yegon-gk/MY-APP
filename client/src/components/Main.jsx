@@ -10,13 +10,14 @@ import {
   FaStackOverflow,
   FaEnvelope,
 } from 'react-icons/fa';
+// https://tinyurl.com/2yrm9gnm
 
 const Main = () => {
   return (
     <div id="main">
       <img
         className="w-full h-screen object-cover scale-x-[-1"
-        src="https://tinyurl.com/2yrm9gnm"
+        src="https://tinyurl.com/2a5l4jtx"
         alt="landing-page-img"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-black/50">
