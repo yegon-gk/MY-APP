@@ -10,7 +10,7 @@ import ygnImg from '../assets/projects/ygn.png';
 const Projects = () => {
   return (
     <div id="projects" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
-      <h1 className='pb-4 text-4xl font-bold text-center text-[#ff6f00] '>My Projects</h1>
+      <h1 className='pb-4 text-4xl font-bold text-center text-[#ff6f00] '>Projects</h1>
       <p className='text-center leading-none text-slate-700 pb-4'>
         Explore my collection of software engineering projects showcased on this
         page. With a blend of creativity and technical prowess, each project
